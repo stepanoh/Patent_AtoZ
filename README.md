@@ -1,6 +1,6 @@
 # Patent_AtoZ
 AI-Powered Patents: From Idea to Profit
-# 📘 특판남이 알려주는 돈 되는 특허 AtoZ: AI 개정판 (Official Repository)
+# 특판남이 알려주는 돈 되는 특허 AtoZ: AI 개정판 (Official Repository)
 
 > **"Transforming Ideas into Lucrative Patents with AI"**
 > 본 저장소는 《특판남이 알려주는 돈되는 특허 AtoZ》 AI 개정판 독자분들을 위한 공식 실습 및 자원 창고입니다. 
@@ -37,6 +37,6 @@ AI-Powered Patents: From Idea to Profit
 
 독자 여러분의 성공적인 지식재산권(IP) 수익화를 응원합니다!
 
-* **저자**: 글로벌 기업에 특허를 직접 판 30년 실전 전문가 황진상, AI로 10배 빨라진 초고속 특허 공장 매뉴얼을 전하다.
+* **저자**: 글로벌 기업에 특허를 직접 판 30년 실전 전문가, AI로 10배 빨라진 초고속 강력한 특허 공장 매뉴얼을 전하다.
 * **이메일**: (stepanoh@empal.com)
 * **Copyright** © 2026. All rights reserved. Licensed under the MIT License.
